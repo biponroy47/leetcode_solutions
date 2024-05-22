@@ -13,7 +13,7 @@ class Solution {
                 }
                 if(count > max) max = count;
            }
-           //if(max > nums.length/2) break;
+           if(max > nums.length/2) break;
        }
        return max;
     }
