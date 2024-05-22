@@ -1,2 +1,6 @@
-# leetcode_solutions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+# leetcode solutions
+
+pushed automatically using LeetHub chrome extension
+(https://chromewebstore.google.com/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi?hl=en)
+
+current goal: complete neetcode blind 75
