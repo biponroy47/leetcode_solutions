@@ -7,10 +7,10 @@ class Solution {
             if(nums[i] == cur) continue;
             if(nums[i] == cur + 1) {
                 temp++;
-                if(temp > max) max = temp;
+                max = Math.max(max, temp);
             }
             else{
-                if(temp > max) max = temp;
+                max = Math.max(max, temp);
                 temp = 1;
             } 
             cur = nums[i];
