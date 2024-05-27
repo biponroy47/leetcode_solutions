@@ -4,10 +4,8 @@ class Solution {
         String input = s.toLowerCase().replaceAll(pattern, "");
         int ptrA = 0;
         int ptrB = input.length() - 1;
-        while(ptrA < ptrB && ptrA != ptrB){
-            char a = input.charAt(ptrA);
-            char b = input.charAt(ptrB);
-            if(a == b){
+        while(ptrA < ptrB){
+            if(input.charAt(ptrA) == input.charAt(ptrB)){
                 ptrA++;
                 ptrB--;
             }
