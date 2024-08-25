@@ -1,20 +1,24 @@
 class Solution {
+
     public int[] twoSum(int[] numbers, int target) {
-        int pA = 0;
-        int pB = numbers.length - 1;
-        
-        while(numbers[pA] + numbers[pB] != target){
-if(numbers[pA] + numbers[pB] > target){
-pB--;
-    continue;
-}
-            if(numbers[pA] + numbers[pB] < target){
-pA++;
-    continue;
-}
-}
-       return new int []{
-pA + 1, pB + 1
-};
+        int a_pointer = 0;
+        int b_pointer = numbers.length - 1;
+        int num_a, num_b;
+
+        while (a_pointer < b_pointer) {
+            num_a = numbers[a_pointer];
+            num_b = numbers[b_pointer];
+
+            if (num_a + num_b == target) break;
+
+            if (num_a + num_b < target) {
+                a_pointer++;
+                continue;
+            }
+
+            b_pointer--;
+        }
+
+        return new int[] { a_pointer + 1, b_pointer + 1 };
     }
 }
