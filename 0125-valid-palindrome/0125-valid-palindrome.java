@@ -1,15 +1,19 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        String pattern = "["+(char)0 +"-"+(char)47+(char)58+"-"+(char)96+(char)123+"-"+(char)127+"]";
-        String input = s.toLowerCase().replaceAll(pattern, "");
-        int ptrA = 0;
-        int ptrB = input.length() - 1;
-        while(ptrA < ptrB){
-            if(input.charAt(ptrA) == input.charAt(ptrB)){
-                ptrA++;
-                ptrB--;
+        int low = 0;
+        int high = s.length() - 1;
+        while(low <= high){
+            while(low < s.length() && !(Character.isLetterOrDigit(s.charAt(low)))){
+                low++;
             }
-            else return false;
+            while(high > 0 && !(Character.isLetterOrDigit(s.charAt(high)))){
+                high--;
+            }
+            if(low < s.length() && high > 0 && Character.toLowerCase(s.charAt(low)) != Character.toLowerCase(s.charAt(high))) {
+                return false;
+            }
+                  low++;
+                  high--;
         }
         return true;
     }
