@@ -6,16 +6,15 @@ class Solution {
             int target = 0 - nums[i];
             int left = 0;
             int right = i - 1;
-
-            while(left < right){
+            while(left < right && i > 1){
                 if(nums[left] + nums[right] == target){
                     List<Integer> set = List.of(nums[left], nums[right], nums[i]);
                     list.add(set);
                     int curLeft = nums[left];
+                    int curRight = nums[right];
                     while(nums[left] == curLeft && left < right){
                         left++;
                     }
-                    int curRight = nums[right];
                     while(nums[right] == curRight && right > left){
                         right--;
                     }
