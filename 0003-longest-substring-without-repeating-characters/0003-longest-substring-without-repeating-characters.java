@@ -16,7 +16,9 @@ class Solution {
                 temp++;
             }
             else{
-                max = Math.max(max, temp);
+                if (temp > max){
+                    max = temp;
+                }
                 while(set.contains(c)){
                     set.remove(s.charAt(l));
                     l++;
@@ -24,7 +26,12 @@ class Solution {
                 }
             }
             if (r == s.length()){
-                return Math.max(max, temp);
+                if(temp > max){
+                    return temp;
+                }
+                else {
+                    return max;
+                }
             }
         }
         return max;
