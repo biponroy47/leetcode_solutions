@@ -1,26 +1,19 @@
 class Solution {
-    public int lengthOfLongestSubstring(String s) {
-        
-        if(s.length() < 2) return s.length();
-        Queue<Character> queue = new LinkedList<>();
-        int max = 0;
-        int temp = 0;
 
-        for(int i = 0; i < s.length(); i++){
-            char c = s.charAt(i);
-            if(!queue.contains(c)){
-                queue.add(c);
-                temp++;
-                if(temp > max) max = temp;
-            }
-            else {
-                while(queue.contains(c)){
-                    queue.poll();
-                    temp--;
+    public int lengthOfLongestSubstring(String s) {
+            List<Character> substringL = new ArrayList<>();
+            int largestlength = 0;
+            for(int right = 0; right < s.length(); right++) {
+                if(substringL.contains(s.charAt(right))) { 
+                    // get the index of the char
+                    int index = substringL.indexOf(s.charAt(right));
+                    substringL.remove(index);
+                    if(index > 0)
+                        substringL.subList(0, index).clear();
                 }
-                i--;
+                substringL.add(s.charAt(right));
+                largestlength = Math.max(largestlength, substringL.size());
             }
-        }
-        return max;
+            return largestlength;
     }
 }
