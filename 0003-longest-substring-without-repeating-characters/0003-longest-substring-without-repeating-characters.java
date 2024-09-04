@@ -17,8 +17,8 @@ class Solution {
                 while(queue.contains(c)){
                     queue.poll();
                     temp--;
-                    i--;
                 }
+                i--;
             }
         }
         return max;
