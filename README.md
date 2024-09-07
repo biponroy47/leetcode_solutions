@@ -12,6 +12,7 @@ current goal: complete neetcode blind 75
 | ------- |
 | [0011-container-with-most-water](https://github.com/biponroy47/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/biponroy47/leetcode_solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/biponroy47/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/biponroy47/leetcode_solutions/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -23,6 +24,7 @@ current goal: complete neetcode blind 75
 | ------- |
 | [0011-container-with-most-water](https://github.com/biponroy47/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/biponroy47/leetcode_solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/biponroy47/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/biponroy47/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -35,6 +37,7 @@ current goal: complete neetcode blind 75
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/biponroy47/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/biponroy47/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -44,4 +47,12 @@ current goal: complete neetcode blind 75
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/biponroy47/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/biponroy47/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/biponroy47/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
