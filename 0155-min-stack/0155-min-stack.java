@@ -1,11 +1,8 @@
 class MinStack {
-
     private List<Integer> list;
     private int topIndex;
     private List<Integer> mins;
     private int minIndex;
-    private int min;
-
     public MinStack() {
         list = new ArrayList<>();
         topIndex = 0;
