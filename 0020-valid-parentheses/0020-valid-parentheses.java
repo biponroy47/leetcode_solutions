@@ -2,7 +2,7 @@ class Solution {
     public boolean isValid(String s) {
         if(s.length() % 2 != 0) return false;
         Stack<Character> stack = new Stack<>();
-        Map<Character, Character> map = new HashMap<>();
+        HashMap<Character, Character> map = new HashMap<>(3);
         map.put(')', '(');
         map.put('}', '{');
         map.put(']', '[');
