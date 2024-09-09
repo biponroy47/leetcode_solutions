@@ -1,25 +1,24 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> brackets = new Stack<>();
-        Map<Character, Character> bracketLookup = new HashMap<>(3);
-
-        bracketLookup.put(')', '(');
-        bracketLookup.put('}', '{');
-        bracketLookup.put(']', '[');
-
-        for (int i = 0; i < s.length(); i++) {
+        Stack<Character> stack = new Stack<>();
+        HashMap<Character, Character> map = new HashMap<>(3);
+        map.put(')', '(');
+        map.put('}', '{');
+        map.put(']', '[');
+        for(int i = 0; i < s.length(); i++){
             char c = s.charAt(i);
-            if (bracketLookup.containsKey(c)) {
-                if (!brackets.isEmpty() && bracketLookup.get(c).equals(brackets.peek())) {
-                    brackets.pop();
-                } else {
+            if(map.containsKey(c)){
+                if(!stack.isEmpty() && map.get(c).equals(stack.peek())){
+                    stack.pop();
+                }
+                else{
                     return false;
                 }
-            } else {
-                brackets.push(c);
+            }
+            else{
+                stack.push(c);
             }
         }
-
-        return brackets.isEmpty();
+        return stack.isEmpty();
     }
 }
