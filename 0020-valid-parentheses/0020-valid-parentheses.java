@@ -7,10 +7,11 @@ class Solution {
         map.put('}', '{');
         map.put(']', '[');
         for(int i = 0; i < s.length(); i++){
-            if(s.charAt(i) == '(' || s.charAt(i) == '{' || s.charAt(i) == '[' ){
+            char c = s.charAt(i);
+            if(c == '(' || c == '{' || c == '[' ){
                 stack.push(s.charAt(i));
             }
-            else if(!stack.isEmpty() &&  stack.peek() == map.get(s.charAt(i))){
+            else if(!stack.isEmpty() &&  stack.peek() == map.get(c)){
                 stack.pop();
             }
             else {
