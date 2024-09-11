@@ -1,20 +1,9 @@
 class Solution {
-    public static boolean isInteger(String str) {
-    try {
-        Integer.parseInt(str);
-        return true;
-    } catch (NumberFormatException e) {
-        return false;
-    }
-}
-
     public int evalRPN(String[] tokens) {
-
         Stack<Integer> stack = new Stack<>();
-
         for(int i = 0; i < tokens.length; i++){
             String token = tokens[i];
-            if(isInteger(token)){
+            if(!token.equals("+") && !token.equals("-") && !token.equals("*") && !token.equals("/")){
                 stack.push(Integer.parseInt(token));
             }
             else{
