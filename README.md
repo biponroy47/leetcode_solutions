@@ -27,6 +27,7 @@ current goal: complete neetcode blind 75
 | [0015-3sum](https://github.com/biponroy47/leetcode_solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/biponroy47/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/biponroy47/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/biponroy47/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +54,7 @@ current goal: complete neetcode blind 75
 | ------- |
 | [0020-valid-parentheses](https://github.com/biponroy47/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/biponroy47/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/biponroy47/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/biponroy47/leetcode_solutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
@@ -62,4 +64,8 @@ current goal: complete neetcode blind 75
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/biponroy47/leetcode_solutions/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/biponroy47/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
