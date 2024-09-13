@@ -30,10 +30,12 @@ current goal: complete neetcode blind 75
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/biponroy47/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/biponroy47/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/biponroy47/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/biponroy47/leetcode_solutions/tree/master/0883-car-fleet) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/biponroy47/leetcode_solutions/tree/master/0015-3sum) |
+| [0883-car-fleet](https://github.com/biponroy47/leetcode_solutions/tree/master/0883-car-fleet) |
 ## Greedy
 |  |
 | ------- |
@@ -60,11 +62,13 @@ current goal: complete neetcode blind 75
 | [0150-evaluate-reverse-polish-notation](https://github.com/biponroy47/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/biponroy47/leetcode_solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/biponroy47/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/biponroy47/leetcode_solutions/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/biponroy47/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/biponroy47/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/biponroy47/leetcode_solutions/tree/master/0883-car-fleet) |
 ## Design
 |  |
 | ------- |
