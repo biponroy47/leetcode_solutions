@@ -29,6 +29,7 @@ current goal: complete neetcode blind 75
 | [0042-trapping-rain-water](https://github.com/biponroy47/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/biponroy47/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/biponroy47/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/biponroy47/leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
@@ -58,10 +59,12 @@ current goal: complete neetcode blind 75
 | [0042-trapping-rain-water](https://github.com/biponroy47/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/biponroy47/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/biponroy47/leetcode_solutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/biponroy47/leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/biponroy47/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/biponroy47/leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
