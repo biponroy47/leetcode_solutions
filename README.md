@@ -21,6 +21,7 @@ current goal: complete neetcode blind 75
 | [0020-valid-parentheses](https://github.com/biponroy47/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/biponroy47/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/biponroy47/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/biponroy47/leetcode_solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +51,7 @@ current goal: complete neetcode blind 75
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/biponroy47/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/biponroy47/leetcode_solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,4 +83,8 @@ current goal: complete neetcode blind 75
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/biponroy47/leetcode_solutions/tree/master/0022-generate-parentheses) |
+## Counting
+|  |
+| ------- |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/biponroy47/leetcode_solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 <!---LeetCode Topics End-->
