@@ -33,6 +33,7 @@ current goal: complete neetcode blind 75
 | [0150-evaluate-reverse-polish-notation](https://github.com/biponroy47/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0713-subarray-product-less-than-k](https://github.com/biponroy47/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/biponroy47/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/biponroy47/leetcode_solutions/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/biponroy47/leetcode_solutions/tree/master/0883-car-fleet) |
 ## Sorting
 |  |
@@ -92,4 +93,8 @@ current goal: complete neetcode blind 75
 |  |
 | ------- |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/biponroy47/leetcode_solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/biponroy47/leetcode_solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
