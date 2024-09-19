@@ -30,6 +30,7 @@ current goal: complete neetcode blind 75
 | [0015-3sum](https://github.com/biponroy47/leetcode_solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/biponroy47/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/biponroy47/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/biponroy47/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/biponroy47/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/biponroy47/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/biponroy47/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -100,5 +101,10 @@ current goal: complete neetcode blind 75
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/biponroy47/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/biponroy47/leetcode_solutions/tree/master/0792-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/biponroy47/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
