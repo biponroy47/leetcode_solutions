@@ -5,9 +5,7 @@
 #         self.next = next
 class Solution(object):
     def reverseList(self, head):
-        
-
-        cur, prev, temp = head, None, None
+        cur, prev = head, None
         while cur:
             temp = cur.next
             cur.next = prev
