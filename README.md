@@ -117,4 +117,20 @@ current goal: complete neetcode blind 75
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/biponroy47/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/biponroy47/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/biponroy47/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/biponroy47/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/biponroy47/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/biponroy47/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
