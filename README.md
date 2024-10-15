@@ -34,6 +34,7 @@ current goal: complete neetcode blind 75
 | [0074-search-a-2d-matrix](https://github.com/biponroy47/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/biponroy47/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/biponroy47/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/biponroy47/leetcode_solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/biponroy47/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0713-subarray-product-less-than-k](https://github.com/biponroy47/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/biponroy47/leetcode_solutions/tree/master/0739-daily-temperatures) |
@@ -143,4 +144,8 @@ current goal: complete neetcode blind 75
 | [0104-maximum-depth-of-binary-tree](https://github.com/biponroy47/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/biponroy47/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/biponroy47/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/biponroy47/leetcode_solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
